@@ -7,3 +7,10 @@ A theme that updates old looking preferences icons for Cydia tweaks
 
 Please send any icons you create to me either as zip or pull requests
 
+### Request Icons
+
+Create a new issue with
+
+* Foldername (bundleID)
+* Filenames (something.png)
+* Link to an image (existing icon or icon suggestion)
